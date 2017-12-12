@@ -16,7 +16,7 @@ class App extends Component {
   constructor(props) {
     super(props);
   }
-
+// esta forma de hacer el routing me parece muy buena para implementarla en mis futuros proyectos tu proyecti fue muy bueno y realizaste cada una de las  funciones que proponias muy bien felicitaciones es codigo es inpecable
   render() {
     return (
       <div>
