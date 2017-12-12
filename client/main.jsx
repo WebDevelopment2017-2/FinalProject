@@ -8,3 +8,5 @@ Meteor.startup(() => {
     $('html').attr('lang', 'es');
     render(<App />, document.getElementById('render-target'));
 });
+
+//Jairo Bautista: Excelente proyecto, revisando cada componente no veo queja.
